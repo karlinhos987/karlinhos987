@@ -20,3 +20,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhos987&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhos987&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+  
+ <div align="center">
+  <a href="https://img.shields.io/twitter/follow/karlinhos987?style=social" >
+ </div>
