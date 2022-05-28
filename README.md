@@ -1,4 +1,5 @@
 ### Hi there 👋🤖👨🏻‍💻🖥️
+[![linkedin: Karlinhos987](https://img.shields.io/badge/-Karlinhos987-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karlinhos987/)](linkedin.com/in/karlinhos987/) [![Twitter](https://img.shields.io/twitter/follow/karlinhos987?style=social)](twitter.com/karlinhos987)
 
 <!--
 **karlinhos987/karlinhos987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[![linkedin: Karlinhos987](https://img.shields.io/badge/-Karlinhos987-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karlinhos987/)](linkedin.com/in/karlinhos987/) ![Twitter](https://img.shields.io/twitter/follow/karlinhos987?style=social)-->
+
 
 <div align="center">
   <a href="https://github.com/karlinhos987">
