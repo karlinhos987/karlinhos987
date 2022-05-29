@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-  
+
+  ![Snake animation](https://github.com/karlinhos987/karlinhos987/blob/output/github-contribution-grid-snake.svg)
+
