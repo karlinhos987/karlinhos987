@@ -1,5 +1,5 @@
 🤖👨🏻‍💻🖥️
-### Olá👋
+###Olá👋
 Eu sou o Carlos Roberto, tenho 34 anos, moro em Ribeirão Preto/SP. Sou formado em Sistemas Informatizados pela Barão de Mauá e atualmente curso Ciências da Computação na Estácio. Já trabalhei como desenvolvedor PL/SQL e atualmente trabalho como gerente de ecommerce e marketplace, porém pretendo voltar a trabalhar como desenvolvedor.    
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karlinhos987/)](https://www.linkedin.com/in/karlinhos987/) [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/karlinhos987/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:karlinhos987@gmail.com)](mailto:karlinhos987@gmail.com) [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:karlinhos987@hotmail.com)](mailto:karlinhos987@hotmail.com)
@@ -26,5 +26,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhos987&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhos987&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+###Languages and Tools
 
   
