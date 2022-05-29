@@ -1,5 +1,7 @@
 ### Hi there 👋🤖👨🏻‍💻🖥️
-[![linkedin: Karlinhos987](https://img.shields.io/badge/-Karlinhos987-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karlinhos987/)](linkedin.com/in/karlinhos987/) [![Twitter](https://img.shields.io/twitter/follow/karlinhos987?style=social)](twitter.com/karlinhos987)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/karlinhos987/)](https://www.linkedin.com/in/karlinhos987/) [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/karlinhos987/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:karlinhos987@gmail.com)](mailto:karlinhos987@gmail.com) [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:karlinhos987@hotmail.com)](mailto:karlinhos987@hotmail.com)
+
 
 <!--
 **karlinhos987/karlinhos987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
+<div>
   <a href="https://github.com/karlinhos987">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karlinhos987&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlinhos987&layout=compact&langs_count=7&theme=dark"/>
