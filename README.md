@@ -1,6 +1,6 @@
 🤖👨🏻‍💻🖥️
 ## Olá👋
-Eu sou o Carlos Roberto, tenho 34 anos, moro em Ribeirão Preto/SP. Sou apaixonado por computação e tecnologia, gosto de matemática, física e anime. Adoro desafios e resolver de problemas. Sou formado em Sistemas Informatizados pela [Barão de Mauá](https://www.baraodemaua.br/) e atualmente curso [Ciências da Computação na Estácio](https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-de-ribeir%C3%A3o-preto/). Recentemente conclui o curso de Desenvolvedor Web Java Jr Full Stack pela [Digital House](https://www.digitalhouse.com/br), em parceira com a [Porto](https://portoseguro.com.br/). Já trabalhei como desenvolvedor PL/SQL e atualmente trabalho como gerente de ecommerce e marketplace, porém pretendo voltar a trabalhar como desenvolvedor.    
+Eu sou o Carlos Roberto, tenho 35 anos, moro em Ribeirão Preto/SP. Sou apaixonado por computação e tecnologia, gosto de matemática, física e anime. Adoro desafios e resolver de problemas. Sou formado em Sistemas Informatizados pela [Barão de Mauá](https://www.baraodemaua.br/) e em [Ciências da Computação na Estácio](https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-de-ribeir%C3%A3o-preto/). Atualmente estou estudando Sprign e Angular, pois desejo trabalhar como Desenvolvedor Fullstack Java+Angular. Já trabalhei como desenvolvedor PL/SQL e atualmente trabalho como gerente de ecommerce e marketplace, porém pretendo voltar a trabalhar como desenvolvedor.    
 
 
 ### Email e Redes Sociais
